@@ -1,5 +1,7 @@
 # mammals
-mammals dataset with streamlit
+Mammals dataset, Tidy data, & Streamlit
+
+YouTube playlist (two videos): https://youtube.com/playlist?list=PL9WgRVRjJLlYXGnHCso7SQAegjbQ8yio6
 
 (dataset from.., not included in this repository, please contact below creators/mainteiners for copies)
 
